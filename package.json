@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "codemirror": "^5.65.14",
+    "electron": "^26.1.0",
+    "file-saver": "^2.0.5"
+  },
+  "name": "vscodecloneelectronjs",
+  "version": "1.0.0",
+  "description": "App Clone VSCODE",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Lucas Corrêa",
+  "license": "ISC"
+}
